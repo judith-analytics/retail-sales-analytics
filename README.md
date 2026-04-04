@@ -108,3 +108,6 @@ El negocio tiene presencia multinacional.
 Existen categorías y segmentos con mayor contribución económica.
 Las tiendas presentan diferencias significativas de desempeño.
 Los clientes pueden agruparse en patrones demográficos y económicos.
+
+Puedes descargar el archivo del dashboard en este enlace:
+https://github.com/judith-analytics/retail-sales-analytics/releases/tag/v1.0
